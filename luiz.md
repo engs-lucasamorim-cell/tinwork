@@ -7,4 +7,6 @@ Tarefas
 3. Upload de foto de perfil 
 4. Criar feed de vagas
 5. Layout das vagas
+6. Sistema de busca de vagas
+
 
