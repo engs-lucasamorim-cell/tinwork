@@ -11,5 +11,6 @@ Tarefas
 7. Filtro por categoria
 8. Filtro por localização
 9. Exibir detalhes da vaga
+10. Interface responsiva
 
 
