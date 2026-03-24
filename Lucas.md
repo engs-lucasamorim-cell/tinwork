@@ -8,3 +8,4 @@ Tarefas
 4. validação de dados no cadastro
 5. Sistema de recuperação de senha
 6. Estrutura de banco de usuario
+7. sistema de recuperação-login ativo
