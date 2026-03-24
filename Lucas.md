@@ -7,3 +7,4 @@ Tarefas
 3. Criar tela de cadrastro
 4. validação de dados no cadastro
 5. Sistema de recuperação de senha
+6. Estrutura de banco de usuario
