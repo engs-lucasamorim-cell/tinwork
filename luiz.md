@@ -9,5 +9,6 @@ Tarefas
 5. Layout das vagas
 6. Sistema de busca de vagas
 7. Filtro por categoria
+8. Filtro por localização
 
 
