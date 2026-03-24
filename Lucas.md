@@ -11,3 +11,4 @@ Tarefas
 7. sistema de recuperação-login ativo
 8. logout do usuario
 9. interação login+cadastros
+10. Teste basico de autenticação
