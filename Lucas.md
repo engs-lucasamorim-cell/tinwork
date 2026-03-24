@@ -6,3 +6,4 @@ Tarefas
 2. criar sistema de autenticação
 3. Criar tela de cadrastro
 4. validação de dados no cadrastro
+5. Sistema de recuperação de senha
