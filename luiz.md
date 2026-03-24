@@ -6,4 +6,5 @@ Tarefas
 2. Editar perfil do usuário
 3. Upload de foto de perfil 
 4. Criar feed de vagas
+5. Layout das vagas
 
