@@ -10,3 +10,4 @@ TAREFAS
 5. Notificação de nova vaga
 6. Notificação de mensagem
 7. Criar sistema de favoritos
+9. Salvar vaga como favorita
