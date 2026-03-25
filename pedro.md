@@ -8,3 +8,4 @@ TAREFAS
 3. Receber mensagens
 4. Criar sistema de notificações
 5. Notificação de nova vaga
+6. Notificação de mensagem
