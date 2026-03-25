@@ -11,3 +11,4 @@ TAREFAS
 6. Notificação de mensagem
 7. Criar sistema de favoritos
 8. Salvar vaga como favorita
+9. Remover vaga dos favoritos
