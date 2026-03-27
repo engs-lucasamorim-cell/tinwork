@@ -5,6 +5,7 @@ O **TinWork** surgiu durante uma aula de **Criatividade e Inovação**, onde o o
 
 O TinWork é uma plataforma que funciona como um **“Tinder do trabalho”**, oferecendo uma forma **rápida, prática e intuitiva** de conectar pessoas que procuram emprego com empresas que buscam funcionários.
 
+Grupo: Luiz Henrique De Pieri, Pedro Augusto Winski, Lucas Bett, Wesley Gabriel, Alberto.
 
 ## 🧠 Ideia Principal
 A proposta do TinWork é simplificar o processo de contratação, tornando-o mais dinâmico e direto.
